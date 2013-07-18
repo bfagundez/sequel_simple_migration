@@ -1,7 +1,7 @@
 sequel_simple_migration
 =======================
 
-An example of migrations usin sequel. 
+An example of migrations using sequel. 
 
 Execute the migration with:
 
